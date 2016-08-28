@@ -1,0 +1,3 @@
+[submodule "common-styling"]
+	path = common-styling
+	url = git@github.com:francois777/common-styling.git
